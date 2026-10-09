@@ -1,0 +1,17 @@
+[project]
+name = "bible-rag"
+version = "0.1.0"
+description = "création d'un RAG sur une traduction open source de la bible"
+readme = "README.md"
+authors = [
+    { name = "Rafael ROMERA", email = "romerarafael2006@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+bible-rag = "bible_rag:main"
+
+[build-system]
+requires = ["uv_build>=0.12.24,<0.13.0"]
+build-backend = "uv_build"

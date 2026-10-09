@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets (clés d'API, mots de passe)
+.env
+
+# Données : on ignore tout sauf l'échantillon
+data/*
+!data/sample/
