@@ -43,4 +43,11 @@ uv sync
 ```
 
 ## Données
-Texte de la Bible Louis Segond 1910, dans le domaine public, source : [eBible.org](https://ebible.org/details.php?id=fraLSG).
+Texte de la **Sainte Bible néo-Crampon Libre**, © 2022 Fraternité de Tibériade,
+publié sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr),
+source : [eBible.org](https://ebible.org/francl/).
+
+- Canon catholique : 73 livres, dont les livres deutérocanoniques.
+- Les données transformées (`data/sample/`) sont redistribuées sous la même licence.
+  Seules les balises de mise en forme USFM sont retirées ; le texte n'est pas modifié.
+- Le code du projet est sous licence MIT.
