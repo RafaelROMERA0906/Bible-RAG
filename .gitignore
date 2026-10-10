@@ -14,3 +14,6 @@ __pycache__/
 # Données : on ignore tout sauf l'échantillon
 data/*
 !data/sample/
+
+# Tests
+.pytest_cache/
