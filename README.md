@@ -1,6 +1,6 @@
 # Bible RAG
 
-Système de questions-réponses sur la Bible (Louis Segond 1910) basé sur le
+Système de questions-réponses sur la Bible (Sainte Bible néo-Crampon Libre) basé sur le
 *Retrieval-Augmented Generation* (RAG) : le système recherche les passages
 pertinents, puis rédige une réponse en citant les versets.
 
